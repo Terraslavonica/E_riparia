@@ -1,2 +1,22 @@
-# E_riparia
-Ephydra riparia project, IB, spring 2020
+# Genome assembly and search for genetic markers of adaptation of shore flies (Diptera, Ephydridae) to extreme habitats
+
+
+
+
+## Goal:
+
+
+## Objectives:
+
+
+## Materials and methods:
+
+
+
+## Results:
+
+
+
+## References:
+
+
