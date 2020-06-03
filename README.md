@@ -23,7 +23,7 @@ Now we continue the functional annotation of the shore flies’ genomes by KEGG 
 
 
 ## Results:
-\1. We studied the articles dedicated to the adaptation of organisms to extreme environmental conditions and stress factors. Studying populations that adapt to life in extreme habitats is of great interest for evolutionary studies (Rane et al., 2019), because extreme conditions (physical and chemical stress factors) create a particularly interesting evolutionary context associated with solving the problems of maintaining the basic vital functions of the body in difficult conditions (Bang et al., 2018; Riesch et al., 2015; Waterman, 1999).
+(1) We studied the articles dedicated to the adaptation of organisms to extreme environmental conditions and stress factors. Studying populations that adapt to life in extreme habitats is of great interest for evolutionary studies (Rane et al., 2019), because extreme conditions (physical and chemical stress factors) create a particularly interesting evolutionary context associated with solving the problems of maintaining the basic vital functions of the body in difficult conditions (Bang et al., 2018; Riesch et al., 2015; Waterman, 1999).
 
 There are many levels of protection against stress factors, ranging from transcription regulation, post-transcriptional modification mechanisms, activation of certain metabolic pathways (Davies et al., 2014), ending with the compartmentalization of the body and the role of insect Malpighian tubules in fluid secretion, osmoregulation, and neuroendocrine regulation of ion transport (Beyenbach, 2003; O'Donnell et al., 2003; Coast, 2007; Spring et al., 2009; Wieczorek et al., 2009; Maddrell, 2009).
 
@@ -39,9 +39,9 @@ The above are only examples of mechanisms and groups of proteins associated with
 
 Thus, after the functional annotation of the shore flies’ genomes we will search the genes that can contribute to adaptation to extreme habitats and stressful conditions. It might be genes encoding LEA-proteins, heat shock proteins, aquaporins, metal-transport proteins, proteins that are the part of the signalling cascades p38 and JNK MAPK, etc.
 
-2. We assembled the *E. riparia* genome. The genome, about 600M bp, was assembled by SPAdes program into scaffold with average coverage 11.2x, with N50 equal 3.5K bp and L50 – 53K contigs. In assembly we detected 53% of genes typical for Diptera by BUSCO. Comparing with assemblies of close relatives, *E. gracilis* (410M bp, cov. 9.4x, N50 2.1K, L50 46K, BUSCO 81%) and *E. hians* (399M bp, cov. 27.0x, N50 1.8K, L50 53K, BUSCO 37%), we can conclude that *E. riparia* assembly is good enough for further analyses. More details see on the laboratory journal.
+(2) We assembled the *E. riparia* genome. The genome, about 600M bp, was assembled by SPAdes program into scaffold with average coverage 11.2x, with N50 equal 3.5K bp and L50 – 53K contigs. In assembly we detected 53% of genes typical for Diptera by BUSCO. Comparing with assemblies of close relatives, *E. gracilis* (410M bp, cov. 9.4x, N50 2.1K, L50 46K, BUSCO 81%) and *E. hians* (399M bp, cov. 27.0x, N50 1.8K, L50 53K, BUSCO 37%), we can conclude that *E. riparia* assembly is good enough for further analyses. More details see on the laboratory journal.
 
-3. We got a lot of annotated genes and metabolic pathway from functional annotation by KEGG and eggNOG-mapper databases. More details see on the laboratory journal.
+(3) We got a lot of annotated genes and metabolic pathway from functional annotation by KEGG and eggNOG-mapper databases. More details see on the laboratory journal.
 
 
 ## References:
