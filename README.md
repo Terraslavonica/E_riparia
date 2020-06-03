@@ -19,7 +19,7 @@ Full genome of *E. riparia* were sequenced on the Illumina platform. We got 94.4
 Raw reads were filtered by Trimmomatic and cleaned of bacterial and fungal contamination by Kraken2 protein and nucleotide databases. After that 67% of reads left. 
 *E. riparia* genome was assembled by SPAdes, SOAPdenovo and Platanus. The quality was assessed by QUAST and BUSCO (dipteran database).
 We masked the repeats and low complexity regions by WindowMasker and made structural genomes annotation by Augustus.
-Now we continue the functional annotation of the shore flies’ genomes by KEGG and eggNOG-mapper databases. More details see on the laboratory journal.
+Now we continue the functional annotation of the shore flies’ genomes by KEGG and eggNOG-mapper databases. More details see on the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing).
 
 
 ## Results:
