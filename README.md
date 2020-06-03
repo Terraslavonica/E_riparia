@@ -23,7 +23,7 @@ Now we continue the functional annotation of the shore flies’ genomes by KEGG 
 
 
 ## Results:
-1. We studied the articles dedicated to the adaptation of organisms to extreme environmental conditions and stress factors. Studying populations that adapt to life in extreme habitats is of great interest for evolutionary studies (Rane et al., 2019), because extreme conditions (physical and chemical stress factors) create a particularly interesting evolutionary context associated with solving the problems of maintaining the basic vital functions of the body in difficult conditions (Bang et al., 2018; Riesch et al., 2015; Waterman, 1999).
+\1. We studied the articles dedicated to the adaptation of organisms to extreme environmental conditions and stress factors. Studying populations that adapt to life in extreme habitats is of great interest for evolutionary studies (Rane et al., 2019), because extreme conditions (physical and chemical stress factors) create a particularly interesting evolutionary context associated with solving the problems of maintaining the basic vital functions of the body in difficult conditions (Bang et al., 2018; Riesch et al., 2015; Waterman, 1999).
 
 There are many levels of protection against stress factors, ranging from transcription regulation, post-transcriptional modification mechanisms, activation of certain metabolic pathways (Davies et al., 2014), ending with the compartmentalization of the body and the role of insect Malpighian tubules in fluid secretion, osmoregulation, and neuroendocrine regulation of ion transport (Beyenbach, 2003; O'Donnell et al., 2003; Coast, 2007; Spring et al., 2009; Wieczorek et al., 2009; Maddrell, 2009).
 
