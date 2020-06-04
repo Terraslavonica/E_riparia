@@ -62,7 +62,7 @@ Thus, after the functional annotation of the shore flies’ genomes we will sear
 15.	Han SJ, Choi KY, Brey PT, Lee WJ. (1998) Molecular cloning and characterization of a *Drosophila* p38 mitogen-activated protein kinase. J Biol Chem. 273:369–374. 
 16.	Han ZS, Enslen H, Hu X, Meng X, Wu IH, et al. (1998) A conserved p38 mitogen-activated protein kinase pathway regulates *Drosophila* immunity gene expression. Mol Cell Biol. 18:3527–3539.
 17.	Imai R, Chang L, Ohta A, Bray EA, and Takagi M (1996) A lea-class gene of tomato confers salt and freezing tolerance when expressed in Saccharomyces cerevisiae. Gene. 170, 243±248. PMID:8666253
-18.	Inoue H, Tateno M, Fujimura-Kamada K, Takaesu G, Adachi-Yamada M. (2001) A Drosophila MAPKKK, D-MEKK1, mediates stress responses through activation of p38 MAPK. EMBO J. 20:5421–5430.
+18.	Inoue H, Tateno M, Fujimura-Kamada K, Takaesu G, Adachi-Yamada M. (2001) A *Drosophila* MAPKKK, D-MEKK1, mediates stress responses through activation of p38 MAPK. EMBO J. 20:5421–5430.
 19.	Jensen, L.T., Nielsen, M.M., Loeschcke, V. (2008). New candidate genes for heat resistance in *Drosophila melanogaster* are regulated by HSF.  Cell Stress Chaperones 13(2): 177--182.
 20.	Kadavy, D. R., Hornby, J. M., Haverkost, T., Nickerson, K. W. (2000). Natural antibiotic resistance of bacteria isolated from larvae of the oil fly, *Helaeomyia petrolei*. Applied and environmental microbiology, 66(11), 4615–4619. https://doi.org/10.1128/aem.66.11.4615-4619.2000
 21.	Khan, A. R., Pervez, M. T., Babar, M. E., Naveed, N., & Shoaib, M. (2018). A Comprehensive Study of De Novo Genome Assemblers: Current Challenges and Future Prospective. Evolutionary bioinformatics online, 14, 1176934318758650. https://doi.org/10.1177/1176934318758650
