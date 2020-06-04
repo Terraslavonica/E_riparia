@@ -45,5 +45,53 @@ Thus, after the functional annotation of the shore flies’ genomes we will sear
 
 
 ## References:
+1.	Adler, M., Anjum, M., Andersson, D. I., & Sandegren, L. (2016). Combinations of mutations in envZ, ftsI, mrdA, acrB and acrR can cause high-level carbapenem resistance in Escherichia coli. Journal of Antimicrobial Chemotherapy, 71(5), 1188–1198. https://doi.org/10.1093/jac/dkv475
+2.	Bang, C., Dagan, T., Deines, P., Dubilier, N., Duschl, W. J., Fraune, S., Hentschel, U., Hirt, H., Hülter, N., Lachnit, T., Picazo, D., Pita, L., Pogoreutz, C., Rädecker, N., Saad, M. M., Schmitz, R. A., Schulenburg, H., Voolstra, C. R., Weiland-Bräuer, N., Ziegler, M., … Bosch, T. (2018). Metaorganisms in extreme environments: do microbes play a role in organismal adaptation?. Zoology (Jena, Germany), 127, 1–19. https://doi.org/10.1016/j.zool.2018.02.004
+3.	Battaglia, M., Olvera-Carrillo, Y., Garciarrubio, A., Campos, F., & Covarrubias, A. A. (2008). The enigmatic LEA proteins and other hydrophilins. Plant physiology, 148(1), 6–24. https://doi.org/10.1104/pp.108.120725
+4.	Benoit, J. B., Hansen, I. A., Szuter, E. M., Drake, L. L., Burnett, D. L., & Attardo, G. M. (2014). Emerging roles of aquaporins in relation to the physiology of blood-feeding arthropods. Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology, 184(7), 811–825. https://doi.org/10.1007/s00360-014-0836-x
+5.	Beyenbach, K. W. (2003). Transport mechanisms of diuresis in Malpighian tubules of insects. J. Exp. Biol. 206, 3845-3856.
+6.	Brewster JL, de Valoir T, Dwyer ND, Winter E, Gustin MC. (1993) An Osmosensing Signal Transduction Pathway in Yeast. Science. 259:1760–1763.
+7.	Coast, G. (2007). The endocrine control of salt balance in insects. Gen. Comp. Endocrinol. 152, 332-338.
+8.	Craig CR, Fink JL, Yagi Y, Ip YT, Cagan RL. (2004) A Drosophila p38 orthologue is required for environmental stress responses. EMBO Rep. 5:1058–1063.
+9.	Das, P., Behera, B. K., Chatterjee, S., Das, B. K., & Mohapatra, T. (2020). De novo transcriptome analysis of halotolerant bacterium Staphylococcus sp. strain P-TSB-70 isolated from East coast of India: In search of salt stress tolerant genes. PloS one, 15(2), e0228199. https://doi.org/10.1371/journal.pone.0228199
+10.	Davies, S. A., Cabrero, P., Overend, G., Aitchison, L., Sebastian, S., Terhzaz, S., & Dow, J. A. (2014). Cell signalling mechanisms for insect stress tolerance. The Journal of experimental biology, 217(Pt 1), 119–128. https://doi.org/10.1242/jeb.090571
+11.	Deinlein, U., Stephan, A. B., Horie, T., Luo, W., Xu, G., & Schroeder, J. I. (2014). Plant salt-tolerance mechanisms. Trends in plant science, 19(6), 371–379. https://doi.org/10.1016/j.tplants.2014.02.001
+12.	Garay-Arroyo, A., Colmenero-Flores, J. M., Garciarrubio, A., & Covarrubias, A. A. (2000). Highly hydrophilic proteins in prokaryotes and eukaryotes are common during conditions of water deficit. The Journal of biological chemistry, 275(8), 5668–5674. https://doi.org/10.1074/jbc.275.8.5668
+13.	Herbst, D. B. (1999). Biogeography and physiological adaptations of the brine fly genus Ephydra (Diptera: Ephydridae) in saline waters of the Great Basin. Great Basin Naturalist, 59(2), 127–135.
+14.	Huang Z, Zhong X-J, He J, Jin S-H, Guo H-D, Yu X-F, et al. (2016) Genome-Wide Identification, Characterization, and Stress-Responsive Expression Profiling of Genes Encoding LEA (Late Embryogenesis Abundant) Proteins in Moso Bamboo (Phyllostachys edulis). PLoS ONE 11(11): e0165953. doi:10.1371/journal. pone.0165953
+15.	Han SJ, Choi KY, Brey PT, Lee WJ. (1998) Molecular cloning and characterization of a Drosophila p38 mitogen-activated protein kinase. J Biol Chem. 273:369–374. 
+16.	Han ZS, Enslen H, Hu X, Meng X, Wu IH, et al. (1998) A conserved p38 mitogen-activated protein kinase pathway regulates Drosophila immunity gene expression. Mol Cell Biol. 18:3527–3539.
+17.	Imai R, Chang L, Ohta A, Bray EA, and Takagi M (1996) A lea-class gene of tomato confers salt and freezing tolerance when expressed in Saccharomyces cerevisiae. Gene. 170, 243±248. PMID:8666253
+18.	Inoue H, Tateno M, Fujimura-Kamada K, Takaesu G, Adachi-Yamada M. (2001) A Drosophila MAPKKK, D-MEKK1, mediates stress responses through activation of p38 MAPK. EMBO J. 20:5421–5430.
+19.	Jensen, L.T., Nielsen, M.M., Loeschcke, V. (2008). New candidate genes for heat resistance in Drosophila melanogaster are regulated by HSF.  Cell Stress Chaperones 13(2): 177--182.
+20.	Kadavy, D. R., Hornby, J. M., Haverkost, T., Nickerson, K. W. (2000). Natural antibiotic resistance of bacteria isolated from larvae of the oil fly, Helaeomyia petrolei. Applied and environmental microbiology, 66(11), 4615–4619. https://doi.org/10.1128/aem.66.11.4615-4619.2000
+21.	Khan, A. R., Pervez, M. T., Babar, M. E., Naveed, N., & Shoaib, M. (2018). A Comprehensive Study of De Novo Genome Assemblers: Current Challenges and Future Prospective. Evolutionary bioinformatics online, 14, 1176934318758650. https://doi.org/10.1177/1176934318758650
+22.	Kyriakis JM, Banerjee P, Nikolakaki E, Dai T, Rubie EA, et al. (1994) The stress-activated protein kinase subfamily of c-Jun kinases. Nature. 369:156–160.
+23.	Li, J., Ban, L., Wen, H., Wang, Z., Dzyubenko, N., Chapurin, V., Gao, H., & Wang, X. (2015). An aquaporin protein is associated with drought stress tolerance. Biochemical and biophysical research communications, 459(2), 208–213. https://doi.org/10.1016/j.bbrc.2015.02.052
+24.	Maddrell, S. (2009). Insect homeostasis: past and future. J. Exp. Biol. 212, 446-451.
+25.	Mahajan, S., & Bachtrog, D. (2017). Convergent evolution of Y chromosome gene content in flies. Nature communications, 8(1), 785. https://doi.org/10.1038/s41467-017-00653-x
+26.	Maurel, C., Boursiac, Y., Luu, D. T., Santoni, V., Shahzad, Z., & Verdoucq, L. (2015). Aquaporins in Plants. Physiological reviews, 95(4), 1321–1358. https://doi.org/10.1152/physrev.00008.2015
+27.	Mishra, A., & Tanna, B. (2017). Halophytes: Potential Resources for Salt Stress Tolerance Genes and Promoters. Frontiers in plant science, 8, 829. https://doi.org/10.3389/fpls.2017.00829
+28.	Muthusamy, S. K., Dalal, M., Chinnusamy, V., & Bansal, K. C. (2017). Genome-wide identification and analysis of biotic and abiotic stress regulation of small heat shock protein (HSP20) family genes in bread wheat. Journal of plant physiology, 211, 100–113. https://doi.org/10.1016/j.jplph.2017.01.004
+29.	Nebreda AR, Porras A. p38 MAP kinases: beyond the stress response. Trends Biochem Sci. 2000;25:257–260.
+30.	O′Donnell, M. J., Ianowski, J. P., Linton, S. M. and Rheault, M. R. (2003). Inorganic and organic anion transport by insect renal epithelia. Biochim. Biophys. Acta 1618, 194-206.
+31.	Olvera-Carrillo, Y., Luis Reyes, J., & Covarrubias, A. A. (2011). Late embryogenesis abundant proteins: versatile players in the plant adaptation to water limiting environments. Plant signaling & behavior, 6(4), 586–589. https://doi.org/10.4161/psb.6.4.15042
+32.	Pawłowicz, I., & Masajada, K. (2019). Aquaporins as a link between water relations and photosynthetic pathway in abiotic stress tolerance in plants. Gene, 687, 166–172. https://doi.org/10.1016/j.gene.2018.11.031
+33.	Rane, R. V., Ghodke, A. B., Hoffmann, A. A., Edwards, O. R., Walsh, T. K., & Oakeshott, J. G. (2019a). Detoxifying enzyme complements and host use phenotypes in 160 insect species. Current opinion in insect science, 31, 131–138. https://doi.org/10.1016/j.cois.2018.12.008
+34.	Rane, R. V., Pearce, S. L., Li, F., Coppin, C., Schiffer, M., Shirriffs, J., Sgrò, C. M., Griffin, P. C., Zhang, G., Lee, S. F., Hoffmann, A. A., & Oakeshott, J. G. (2019b). Genomic changes associated with adaptation to arid environments in cactophilic Drosophila species. BMC genomics, 20(1), 52. https://doi.org/10.1186/s12864-018-5413-3
+35.	Riedl, C. A., Oster, S., Busto, M., Mackay, T. F., & Sokolowski, M. B. (2016). Natural variability in Drosophila larval and pupal NaCl tolerance. Journal of insect physiology, 88, 15–23. https://doi.org/10.1016/j.jinsphys.2016.02.007
+36.	Riesch, R., Plath, M., Schlupp, I., Tobler, M., & Brian Langerhans, R. (2014). Colonisation of toxic environments drives predictable life-history evolution in livebearing fishes (Poeciliidae). Ecology letters, 17(1), 65–71. https://doi.org/10.1111/ele.12209
+37.	Solomon A, Bandhakavi S, Jabbar S, Shah R, Beitel GJ, et al. Caenorhabditis elegans OSR-1 regulates behavioral and physiological responses to hyperosmotic environments. Genetics. 2004;167:161–170.
+38.	Spring, J. H., Robichaux, S. R. and Hamlin, J. A. (2009). The role of aquaporins in excretion in insects. J. Exp. Biol. 212, 358-362.
+39.	Stronach BE, Perrimon N. Stress signaling in Drosophila. Oncogene. 1999;18:6172–6182.
+40.	Swire-Clark, G. A., & Marcotte, W. R., Jr (1999). The wheat LEA protein Em functions as an osmoprotective molecule in Saccharomyces cerevisiae. Plant molecular biology, 39(1), 117–128. https://doi.org/10.1023/a:1006106906345
+41.	Van Breugel, F., Dickinson, M. H., & Meinwald, J. (2017). Superhydrophobic diving flies (Ephydra hians) and the hypersaline waters of Mono Lake. Proceedings of the National Academy of Sciences of the United States of America, 114(51), 13483–13488. https://doi.org/10.1073/pnas.1714874114
+42.	Vicoso B, Bachtrog D (2015) Numerous Transitions of Sex Chromosomes in Diptera. PLoS Biol 13(4): e1002078. doi:10.1371/journal. pbio.1002078
+43.	Waterman T. H. (1999). The evolutionary challenges of extreme environments (Part 1). The Journal of experimental zoology, 285(4), 326–359.
+44.	Wieczorek, H., Beyenbach, K. W., Huss, M. and Vitavska, O. (2009). Vacuolar-type proton pumps in insect epithelia. J. Exp. Biol. 212, 1611-1619.
+45.	Xu D, Duan X, Wang B, Hong B, Ho T and Wu R (1996) Expression of a late embryogenesis abundant protein gene, HVA1, from barley confers tolerance to water deficit and salt stress in transgenic rice. Plant Physiol. 110, 249±257. PMID: 12226181
+46.	Xu X, Wang Q, Long Y, Zhang R, Wei X. Stress-mediated p38 activation promotes somatic cell reprogramming. Cell Res. 2013;23:131–141.
+47.	Yandell, M., & Ence, D. (2012). A beginner’s guide to eukaryotic genome annotation. Nature Reviews Genetics. https://doi.org/10.1038/nrg3174
+48.	Zargar, S. M., Nagar, P., Deshmukh, R., Nazir, M., Wani, A. A., Masoodi, K. Z., Agrawal, G. K., & Rakwal, R. (2017). Aquaporins as potential drought tolerance inducing proteins: Towards instigating stress tolerance. Journal of proteomics, 169, 233–238. https://doi.org/10.1016/j.jprot.2017.04.010
 
 
