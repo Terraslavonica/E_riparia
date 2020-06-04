@@ -19,7 +19,7 @@ Full genome of *E. riparia* were sequenced on the Illumina platform. We got 94.4
 Raw reads were filtered by Trimmomatic and cleaned of bacterial and fungal contamination by Kraken2 protein and nucleotide databases. After that 67% of reads left. 
 *E. riparia* genome was assembled by SPAdes, SOAPdenovo and Platanus. The quality was assessed by QUAST and BUSCO (dipteran database).
 We masked the repeats and low complexity regions by WindowMasker and made structural genomes annotation by Augustus.
-Now we continue the functional annotation of the shore flies’ genomes by KEGG and eggNOG-mapper databases. More details see in the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing).
+Now we continue the functional annotation of the shore flies’ genomes by KEGG and eggNOG-mapper databases. More details are available in the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing).
 
 
 ## Results:
@@ -39,9 +39,9 @@ The above are only examples of mechanisms and groups of proteins associated with
 
 Thus, after the functional annotation of the shore flies’ genomes we will search the genes that can contribute to adaptation to extreme habitats and stressful conditions. It might be genes encoding LEA-proteins, heat shock proteins, aquaporins, metal-transport proteins, proteins that are the part of the signalling cascades p38 and JNK MAPK, etc.
 
-(2) We assembled the *E. riparia* genome. The genome, about 600M bp, was assembled by SPAdes program into scaffold with average coverage 11.2x, with N50 equal 3.5K bp and L50 – 53K contigs. In assembly we detected 53% of genes typical for Diptera by BUSCO. Comparing with assemblies of close relatives, *E. gracilis* (410M bp, cov. 9.4x, N50 2.1K, L50 46K, BUSCO 81%) and *E. hians* (399M bp, cov. 27.0x, N50 1.8K, L50 53K, BUSCO 37%), we can conclude that *E. riparia* assembly is good enough for further analyses. More details see in the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing) (items 8-16).
+(2) We assembled the *E. riparia* genome. The genome, about 600M bp, was assembled by SPAdes program into scaffold with average coverage 11.2x, with N50 equal 3.5K bp and L50 – 53K contigs. In assembly we detected 53% of genes typical for Diptera by BUSCO. Comparing with assemblies of close relatives, *E. gracilis* (410M bp, cov. 9.4x, N50 2.1K, L50 46K, BUSCO 81%) and *E. hians* (399M bp, cov. 27.0x, N50 1.8K, L50 53K, BUSCO 37%), we can conclude that *E. riparia* assembly is good enough for further analyses. More details  are available in the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing) (items 8-16).
 
-(3) We got a lot of annotated genes and metabolic pathway from functional annotation by KEGG and eggNOG-mapper databases. More details see in the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing) (items 17-19).
+(3) We got a lot of annotated genes and metabolic pathway from functional annotation by KEGG and eggNOG-mapper databases. More details  are available in the [laboratory journal](https://docs.google.com/document/d/147rQTXeOp-6CRlvWNGPbjIMCVoK0hkg7_j6raF1Ku7M/edit?usp=sharing) (items 17-19).
 
 
 ## References:
